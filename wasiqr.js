@@ -60,19 +60,19 @@ router.get('/', async (req, res) => {
 	
 				   let WASI_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃SOLO LEVELING SESSION IS 
+┃JINHUYK-MD-V1 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 ARTHUR SASAKI 𖥘
+❶ || Creator = 𖥘  Chanjinhuyk SASAKI 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://github.com/Sasakiarthur 👈
+Wanna talk to me?👉 https://github.com/Chanjinhuyk 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Arthur *
+©*2024-2099 Chanjinhuyk Sasaki *
 _____________________________________
 	
 _Don't Forget To Give Star To My Repo_`
