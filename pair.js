@@ -58,19 +58,19 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃SOLO LEVELING SESSION IS 
+┃JINHUYK-MD-V1 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 ARTHUR SASAKI 𖥘
+❶ || Creator = 𖥘 Chanjinhuyk SASAKI 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029Vajrhmz96H4IsEjh4a41
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
 Wanna talk to me?👉 https://wa.me/+221768649590 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-©*2024-2099 Arthur sasaki*
+©*2024-2099 Chanjinhuyk sasaki*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
